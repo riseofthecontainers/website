@@ -12,7 +12,9 @@ defaultContentLanguageInSubdir= true
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
-
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
+  
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 

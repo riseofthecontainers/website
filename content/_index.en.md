@@ -1,12 +1,10 @@
 ---
-title: " Welcome to online learning couuse Rise of the Containers"
+title: "Welcome to online learning couuse Rise of the Containers"
 ---
 
-# Welcome to online learning course 
-# Rise of the Containers
+# Welcome
 
-
-![Kubernetes Magic](/images/k8s-magician.png)
+![Kubernetes Magic](/images/banner.png)
 [^1]
 
 ### To learn magic of Kubernetes, you need to become magician.
