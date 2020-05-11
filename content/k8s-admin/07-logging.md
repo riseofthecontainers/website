@@ -1,6 +1,7 @@
 ---
-title: Tags
-weight: 190
+title: Central Logging
+weight: 170
 ---
 
 {{< youtube VAOQFNyza3E  >}}
+

@@ -1,6 +1,7 @@
 ---
-title: Exercise 3
-weight: 170
+title: kubeadm
+weight: 120
 ---
 
 {{< youtube VAOQFNyza3E  >}}
+

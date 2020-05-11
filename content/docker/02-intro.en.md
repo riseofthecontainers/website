@@ -3,5 +3,4 @@ title: Docker Basics
 weight: 120
 ---
 
-
-{{< youtube VAOQFNyza3E >}}
+{{< youtube id="EP32vZe_7Ek?rel=0"  >}}

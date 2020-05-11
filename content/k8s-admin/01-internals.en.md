@@ -1,7 +1,7 @@
 ---
-title: Exercise 1
-weight: 130
+title: K8S Internals
+weight: 110
 ---
 
-
 {{< youtube VAOQFNyza3E  >}}
+

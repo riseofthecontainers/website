@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir= true
   disableBreadcrumb = false
   disableNextPrev = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+  themeVariant = "rotc"
   
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
