@@ -3,4 +3,4 @@ title: Multistage Builds
 weight: 180
 ---
 
-## GETTING UPLOADED...
+{{< youtube id="cMXjAaLviGw?rel=0"  >}}

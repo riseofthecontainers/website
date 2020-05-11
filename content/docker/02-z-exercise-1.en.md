@@ -3,4 +3,4 @@ title: Exercise 1
 weight: 121
 ---
 
-## GETTING UPLOADED...
+{{< youtube id="-zZEG7kFCIw?rel=0"  >}}

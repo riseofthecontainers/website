@@ -1,10 +1,10 @@
 ---
-title: "Welcome to online learning couuse Rise of the Containers"
+title: "Welcome to online learning couuse on Docker & Kubernetes - Rise of the Containers - ROTC"
 ---
 
 # Welcome
 
-![Kubernetes Magic](/images/banner.png)
+![Welcome to ROTC](/images/banner.png)
 
 ### To learn magic of Kubernetes, you need to become magician.
 

@@ -4,6 +4,8 @@ copyright = "2020 sunitparekh.in"
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
+googleAnalytics = "G-Z107NTDBL3"
+
 
 [params]
   editURL = "https://github.com/riseofthecontainers/website"

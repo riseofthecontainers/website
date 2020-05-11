@@ -3,4 +3,4 @@ title: Recap
 weight: 200
 ---
 
-## GETTING UPLOADED...
+{{< youtube id="F8TV-npSpDM?rel=0" >}}
