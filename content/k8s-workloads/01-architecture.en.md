@@ -3,4 +3,4 @@ title: Kubernetes Architecture
 weight: 110
 ---
 
-{{< youtube VAOQFNyza3E  >}}
+{{< youtube id="GTRXEbhLt6I?rel=0"  >}}

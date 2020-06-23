@@ -3,4 +3,4 @@ title: Kubernetes Objects
 weight: 120
 ---
 
-{{< youtube VAOQFNyza3E >}}
+{{< youtube id="DHX9KXyQutM?rel=0"  >}}

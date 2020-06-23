@@ -16,6 +16,7 @@ googleAnalytics = "G-Z107NTDBL3"
   disableNextPrev = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "rotc"
+  favicon = "/images/favicon.png"
   
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

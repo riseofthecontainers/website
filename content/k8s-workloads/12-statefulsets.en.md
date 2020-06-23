@@ -1,6 +1,7 @@
 ---
 title: StatefulSets
 weight: 220
+draft: true
 ---
 
-{{< youtube VAOQFNyza3E  >}}
+{{< youtube id="Twv-QfYQVVo?rel=0"  >}}

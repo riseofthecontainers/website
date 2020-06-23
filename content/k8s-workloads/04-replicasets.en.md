@@ -3,4 +3,4 @@ title: Replicasets
 weight: 140
 ---
 
-{{< youtube VAOQFNyza3E  >}}
+{{< youtube id="Twv-QfYQVVo?rel=0"  >}}
