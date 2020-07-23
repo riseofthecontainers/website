@@ -7,7 +7,7 @@ disableToc: true
 
 ## Contributors
 
-> Thanks to all colleagues at ThoughtWorks who worked with me while building this internal course. Special Thanks to [**Girish Verma**](https://github.com/v-girish), who worked hard with me in shaping this workshop to what we have today. 
+> Thanks to all colleagues at ThoughtWorks who worked with me building this course. Special Thanks to [**Girish Verma**](https://github.com/v-girish), who contributed most in shaping up this course to what we have today. 
 
 
 

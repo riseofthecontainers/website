@@ -1,5 +1,5 @@
 ---
-title: "Welcome to online learning couuse on Docker & Kubernetes - Rise of the Containers - ROTC"
+title: "Rise of the Containers - ROTC"
 ---
 
 # Welcome

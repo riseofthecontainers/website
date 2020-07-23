@@ -28,11 +28,16 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-identifier = "ds"
+name = "<i class='fab fa-fw fa-github'></i> Website Repo"
+identifier = "website"
 url = "https://github.com/riseofthecontainers/website"
 weight = 10
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Demo Code Repo"
+identifier = "demo"
+url = "https://github.com/riseofthecontainers/k8s-objects"
+weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bookmark'></i> Kubernetes Documentation"
