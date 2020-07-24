@@ -3,7 +3,7 @@ title: Credits
 disableToc: true
 ---
 
-#### Thanks to ThoughtWorks for allowing to make this course available online. 
+#### I thank ThoughtWorks for supporting me in my personal effort of making this online course as video series.
 
 ## Contributors
 
